@@ -1,4 +1,4 @@
-package liam.year22.march.w1.d6;
+package liam.year22.march.w1.d7;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
