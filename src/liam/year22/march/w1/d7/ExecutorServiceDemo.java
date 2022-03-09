@@ -23,6 +23,7 @@ public class ExecutorServiceDemo {
         ExecutorService pool = Executors.newFixedThreadPool(2);
         pool.submit(new MyRunnable());
         pool.submit(new MyRunnable());
+        pool.execute(new MyRunnable());
         pool.shutdown();
     }
 }
