@@ -1,7 +1,8 @@
-package liam.year22.march.w3.thur.q1;
+package liam.year22.march.w3.thur.longestPalindrome;
 
 /**
  * @Description
+ * 动态规划方法寻找最长回文数
  * @Author liam661
  * @Date 2022/3/17 10:15
  **/

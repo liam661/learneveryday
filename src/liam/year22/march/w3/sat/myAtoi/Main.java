@@ -1,4 +1,4 @@
-package liam.year22.march.w3.sat.q1;
+package liam.year22.march.w3.sat.myAtoi;
 
 /**
  * @Description
