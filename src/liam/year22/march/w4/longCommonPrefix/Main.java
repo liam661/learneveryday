@@ -10,5 +10,9 @@ public class Main {
         Solution s = new Solution();
         String [] strArr = {"abwecde", "abcert", "abcuiop"};
         System.out.println(s.longCommonPrefix(strArr));
+        String [] leets = {"leets", "leetcode", "leet", "leetss", "leetasd"};
+        Solution2 s2 = new Solution2();
+        System.out.println(s2.longCommonPrefix(leets));
+        System.out.println(s2.longCommonPrefix(strArr));
     }
 }
