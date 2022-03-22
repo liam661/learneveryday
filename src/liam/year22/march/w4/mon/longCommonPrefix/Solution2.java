@@ -1,4 +1,4 @@
-package liam.year22.march.w4.longCommonPrefix;
+package liam.year22.march.w4.mon.longCommonPrefix;
 
 /**
  * @Description
